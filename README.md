@@ -1,7 +1,7 @@
 # Node Vanilla Tasks API
 
 [![](https://img.shields.io/badge/Project-NodeJS-green)](#)
-[![](https://img.shields.io/badge/Version-Demo-red)](#)
+[![](https://img.shields.io/badge/Category-Project%20to%20Study-red)](#)
 
 ## 📝 Description
 
