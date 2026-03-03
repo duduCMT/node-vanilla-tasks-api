@@ -51,4 +51,4 @@ See the complete API documentation in this file:
 
 If you use Insomnia, you can import the endpoints with examples
 
-- [Insomnia_Node_Vanilla_Tasks_API](./docs/Insomnia_Node_Vanilla_Tasks_API)
+- [Insomnia_Node_Vanilla_Tasks_API](./docs/Insomnia_Node_Vanilla_Tasks_API.json)
